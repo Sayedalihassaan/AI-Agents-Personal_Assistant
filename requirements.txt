@@ -1,0 +1,34 @@
+## Requirements for the Search
+ddgs
+duckduckgo-search
+
+## Pinecone for vector database
+pinecone
+pinecone-client
+langchain_pinecone
+
+## LangChain and related packages
+langchain-classic
+langchain-openai
+langchain-community
+langchain-google-genai
+
+## Google Tools:
+langchain-google-community[calendar]
+langchain-google-community[gmail]
+
+## Dotenv for environment variable management
+python-dotenv
+python-multipart
+
+## Database connectivity
+pymysql
+psycopg2
+psycopg2-binary
+mysql-connector-python
+
+## Backend Framework - Streamlit GUI
+streamlit
+
+## Date and Time Handling
+pytz
